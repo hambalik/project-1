@@ -59,7 +59,7 @@
 `exit`
 ![exit-mysql1](./images/exit-mysql1.PNG)
 
-## Starting interractive scrip
+## Starting interractive script
 `sudo mysql_secure_installation`
 ![exit-mysql1](./images/exit-mysql1.PNG)
 ![security](./images/security.PNG)
