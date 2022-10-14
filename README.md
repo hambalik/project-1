@@ -1,2 +1,2 @@
-# project-1
+# PROJECT-1
 LAMP IMPLEMENTATION
